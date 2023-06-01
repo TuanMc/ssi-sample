@@ -1,10 +1,8 @@
 ---
-chapter: 2
-tags: [page transition, links]
+chapter: 4
+tags: [composition, server-side, SSI, Nginx]
 ---
 
-# Pages & Links
+# Server-side Integration
 
-One team owns the product page, another owns the recommendations.
-Each team delivers their feature on a separate page.
-They use links to connect the pages.
+TBA

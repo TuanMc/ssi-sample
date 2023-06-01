@@ -15,10 +15,10 @@ a {
 
 /* PRODUCT PAGE STYLES */
 
-.layout {
+.decide_layout {
   display: grid;
   margin: 0;
-  padding: 0 1rem 1rem;
+  padding: 0 1rem 3rem;
   grid-gap: 2rem;
   grid-template-columns: 3fr 2fr;
   min-width: 42rem;
@@ -26,7 +26,7 @@ a {
   margin: 0 auto;
 }
 
-.header {
+.decide_header {
   font-size: 2rem;
   margin: 1rem 0 0;
   text-align: center;
@@ -36,12 +36,12 @@ a {
   grid-column: 1 / span 2;
 }
 
-h2 {
+.decide_headline {
   font-size: 1.5em;
   text-align: center;
   margin: 0;
 }
 
-.image {
+.decide_image {
   width: 100%;
 }
