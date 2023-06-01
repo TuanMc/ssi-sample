@@ -6,8 +6,8 @@ html {
 
 html::after {
   content: "Team Inspire";
-  display: block;
   background-color: #7C9B2F;
+  display: block;
   color: white;
   position: absolute;
   padding: 2px 5px;
